@@ -66,7 +66,7 @@ You can automatically install and launch everything locally with Pinokio 1-click
 First clone Fluxgym and kohya-ss/sd-scripts:
 
 ```
-git clone https://github.com/cocktailpeanut/fluxgym
+git clone https://github.com/miragecoa/fluxgym.git
 cd fluxgym
 git clone -b sd3 https://github.com/kohya-ss/sd-scripts
 ```
@@ -145,7 +145,7 @@ python app.py
 First clone Fluxgym and kohya-ss/sd-scripts:
 
 ```
-git clone https://github.com/cocktailpeanut/fluxgym
+git clone https://github.com/miragecoa/fluxgym.git
 cd fluxgym
 git clone -b sd3 https://github.com/kohya-ss/sd-scripts
 ```
